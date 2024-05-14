@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/kumar-anand05/">Anand</a> </h1>
 
-<h4 align="center">I am currently exploring DevOps and I love to automate every thing that can be automated and will be automated.</h4>
+<h4 align="center">I am currently exploring DevOps and I love to automate everything that can be automated and will be automated.</h4>
 <br>
 <div align="center">
   <p align="center">
